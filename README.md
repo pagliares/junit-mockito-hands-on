@@ -1,1 +1,1 @@
-# junit-mockito-hands-on
+# JUnit and Mockito hands-on
