@@ -5,7 +5,7 @@ public class Calculator {
         return dividend / divisor;
     }
 
-    public int integerSubtraction(int minuend, int subtraend){
-        return minuend - subtraend;
+    public int integerSubtraction(int minuend, int subtrahend){
+        return minuend - subtrahend;
     }
 }
